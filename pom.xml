@@ -33,7 +33,7 @@
         <finalName>myapp</finalName>
         <plugins>
 
-            <!-- WAR packaging -->
+            <!-- WAR packaging --->
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-war-plugin</artifactId>
